@@ -1,5 +1,5 @@
 # Java-React Example
-![Cursor](https://github.com/thaer-sahloul/java-react-ex-iaas/assets/76632701/e778a101-d0e7-49dd-9c01-c520be075002)
+![3_-](https://github.com/thaer-sahloul/java-react-ex-iaas/assets/76632701/7303fc22-f02b-404f-913e-434d453ae479)
 
 An example of how to use JS frontend to consume an endpoint written in Java.
 
